@@ -1,2 +1,2 @@
 # HackerRank_Python
-This repository consists of few of the HackerRank Python challenges which I have solved.
+This repository consists of few of the HackerRank Python and algorithm challenges which I have solved.
